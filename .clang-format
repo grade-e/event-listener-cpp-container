@@ -1,0 +1,9 @@
+UseTab: Never
+ColumnLimit: 80
+IndentWidth: 4
+Language: Cpp
+Standard: c++17
+BasedOnStyle: Google
+DerivePointerAlignment: false
+PointerAlignment: Left
+IncludeBlocks: Regroup
